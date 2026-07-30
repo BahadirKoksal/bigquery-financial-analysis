@@ -7,7 +7,7 @@ This project analyzes financial data using BigQuery SQL to track daily business 
 
 ## 🗃️ Dataset
 - **Platform:** Google BigQuery
-- **Dataset:** `course16`
+
 - **Tables:**
   - `gwz_product` — Product catalog with purchase prices
   - `gwz_sales` — Order line items with turnover and quantity
